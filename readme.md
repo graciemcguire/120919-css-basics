@@ -1,8 +1,6 @@
 
 # CSS Minis - Part 1: Intro & Box Model
 
-
-
 ## SWBAT
 
 * Discuss what CSS does and why it's important
@@ -13,7 +11,8 @@
 ## CSS Basics
 
 Cascading Style Stylesheets
-Make stuff pretty /responsive
+The paint on our house...that is our program
+Adds interactivity 
 
 * What is it?
 * What Does it Do?

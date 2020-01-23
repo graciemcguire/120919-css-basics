@@ -1,4 +1,8 @@
-.div {
-  background-color: red;
-  color: red;
+.div-class {
+  background-color: turquoise;
+  color: maroon;
+  padding: 20px;
+  border: 10px purple dashed;
+  margin: 30px;
+  text-align: center;
 }
